@@ -46,8 +46,8 @@ Dentro de la carpeta dsl-validator-transalator, seguiremos los siguientes pasos:
 
 Abrimos una terminal cmd dentro de la carpeta y escribimos en el siguiente orden
 
-    1. npm init -y
-    2. npm install ajv zod joi
+    npm init -y
+    npm install ajv zod joi
 
 esto para iniciar en npm y descargar las dependencias que usaremos para ejecutar nuestro traductor, si instalamos bien la carpeta y las dependencias,
 ejecuataremos la siguiente linea:
